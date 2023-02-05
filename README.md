@@ -3,11 +3,12 @@
   👋 <br/>
 </h1>
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&pause=1000&center=true&width=1000&lines=Fullstack+developer)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&pause=1000&center=true&width=1000&lines=Fullstack+web+developer)](https://git.io/typing-svg)
 
-- 🏢 I'm currentrly a backend developer at [Livo.dev](https://instagram.com/livo.dev)
-- 🌱 I learning all about **microservices**
-- 📫 <a href="mailto:davlatshoev.s@mail.ru">get in touch with me</a> 
+- 🌍 I'm based in Dushanbe
+- 🏢 I'm currently working at [Livo.dev](https://instagram.com/livo.dev)
+- 🌱 I'm learning **Microservices**
+- ✉️  You can contact me at [davlatshoev.s@mail.ru](mailto:davlatshoev.s@mail.ru)
 
 🔗 **Connect with me**
 <p align='left'>
