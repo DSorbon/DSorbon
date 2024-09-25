@@ -3,9 +3,9 @@
   👋 <br/>
 </h1>
 
-<!--
-
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&pause=1000&center=true&width=1000&lines=Backend+Developer)](https://git.io/typing-svg)
+
+<!--
 
 - 🌍 I'm based in Dushanbe
 - 🏢 I'm currently working at [LLC "REBUS"](https://www.instagram.com/rebus.tj)
