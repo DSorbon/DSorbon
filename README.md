@@ -3,6 +3,8 @@
   👋 <br/>
 </h1>
 
+<!--
+
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&pause=1000&center=true&width=1000&lines=Backend+Developer)](https://git.io/typing-svg)
 
 - 🌍 I'm based in Dushanbe
@@ -35,7 +37,6 @@
 ![GitHub](https://img.shields.io/badge/Github-ffffff?style=for-the-badge&logo=github&logoColor=000000)
 ![NPM](https://img.shields.io/badge/NPM-%23000000.svg?style=for-the-badge&logo=npm&logoColor=white)
 
-<!--
 
 <b>My GitHub Stats</b>
 
